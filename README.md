@@ -2,7 +2,7 @@
 ### 하루하루 열심히 살면 :sparkles: 을 본다.
 ### 개발일지
 #### <span style='background-color: #F7DDBE'> Tistory </span>
-<a href="https://ijjjang.tistory.com"><image src="https://github.com/jung-yeon/jung-yeon/assets/77679326/a13a212f-eef0-41a9-83c3-f1e5591e1439" height="200"></a>
+<a href="http://ijjjang.tistory.com"><image src="http://github.com/jung-yeon/jung-yeon/assets/77679326/a13a212f-eef0-41a9-83c3-f1e5591e1439" height="200"></a>
 
 
 ## 학교:school:
