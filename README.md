@@ -8,7 +8,8 @@
 ## 학교:school:
 - 조선대학교 컴퓨터공학과 전공
 ## 수상:crown:
-- 호남ICT콤플렉스 인공지능 문제해결 아이디어 공모전 대상 (2020.12.10) 
+- 호남ICT콤플렉스 인공지능 문제해결 아이디어 공모전 대상 (2020.12.10)
+- <a href="https://github.com/2023-AISCHOOL-IOTA/YOU_IoT">인공지능사관학교4기 핵심프로젝트 우수상 (2023.08.18)</a>
 ## Main Stack :fire::computer:
 <image src="https://github.com/jung-yeon/jung-yeon/assets/77679326/064b202b-dc74-47df-b69c-4c9aeb29dcbe" height="50">
 <image src="https://github.com/jung-yeon/jung-yeon/assets/77679326/aa011cf5-4740-4287-a809-08511d20a12e" height="50"><br>
